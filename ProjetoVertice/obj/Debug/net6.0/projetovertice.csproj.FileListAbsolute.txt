@@ -1,0 +1,15 @@
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\bin\Debug\net6.0\projetovertice.exe
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\bin\Debug\net6.0\projetovertice.deps.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\bin\Debug\net6.0\projetovertice.runtimeconfig.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\bin\Debug\net6.0\projetovertice.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\bin\Debug\net6.0\projetovertice.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\obj\Debug\net6.0\projetovertice.csproj.AssemblyReference.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\obj\Debug\net6.0\projetovertice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\obj\Debug\net6.0\projetovertice.AssemblyInfoInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\obj\Debug\net6.0\projetovertice.AssemblyInfo.cs
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\obj\Debug\net6.0\projetovertice.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\obj\Debug\net6.0\projetovertice.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\obj\Debug\net6.0\refint\projetovertice.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\obj\Debug\net6.0\projetovertice.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\obj\Debug\net6.0\projetovertice.genruntimeconfig.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovertice\obj\Debug\net6.0\ref\projetovertice.dll

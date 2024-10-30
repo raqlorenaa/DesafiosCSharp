@@ -1,0 +1,15 @@
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\obj\Debug\net6.0\projetocertidaonascimento.csproj.AssemblyReference.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\obj\Debug\net6.0\projetocertidaonascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\obj\Debug\net6.0\projetocertidaonascimento.AssemblyInfoInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\obj\Debug\net6.0\projetocertidaonascimento.AssemblyInfo.cs
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\obj\Debug\net6.0\projetocertidaonascimento.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\bin\Debug\net6.0\projetocertidaonascimento.exe
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\bin\Debug\net6.0\projetocertidaonascimento.deps.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\bin\Debug\net6.0\projetocertidaonascimento.runtimeconfig.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\bin\Debug\net6.0\projetocertidaonascimento.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\bin\Debug\net6.0\projetocertidaonascimento.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\obj\Debug\net6.0\projetocertidaonascimento.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\obj\Debug\net6.0\refint\projetocertidaonascimento.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\obj\Debug\net6.0\projetocertidaonascimento.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\obj\Debug\net6.0\projetocertidaonascimento.genruntimeconfig.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetocertidaonascimento\obj\Debug\net6.0\ref\projetocertidaonascimento.dll

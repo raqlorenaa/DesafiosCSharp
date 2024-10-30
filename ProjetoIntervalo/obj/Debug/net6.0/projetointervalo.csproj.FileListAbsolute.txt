@@ -1,0 +1,15 @@
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\obj\Debug\net6.0\projetointervalo.csproj.AssemblyReference.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\obj\Debug\net6.0\projetointervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\obj\Debug\net6.0\projetointervalo.AssemblyInfoInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\obj\Debug\net6.0\projetointervalo.AssemblyInfo.cs
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\obj\Debug\net6.0\projetointervalo.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\bin\Debug\net6.0\projetointervalo.exe
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\bin\Debug\net6.0\projetointervalo.deps.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\bin\Debug\net6.0\projetointervalo.runtimeconfig.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\bin\Debug\net6.0\projetointervalo.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\bin\Debug\net6.0\projetointervalo.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\obj\Debug\net6.0\projetointervalo.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\obj\Debug\net6.0\refint\projetointervalo.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\obj\Debug\net6.0\projetointervalo.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\obj\Debug\net6.0\projetointervalo.genruntimeconfig.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetointervalo\obj\Debug\net6.0\ref\projetointervalo.dll

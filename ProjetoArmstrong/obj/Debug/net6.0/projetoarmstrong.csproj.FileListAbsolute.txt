@@ -1,0 +1,15 @@
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\obj\Debug\net6.0\projetoarmstrong.csproj.AssemblyReference.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\obj\Debug\net6.0\projetoarmstrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\obj\Debug\net6.0\projetoarmstrong.AssemblyInfoInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\obj\Debug\net6.0\projetoarmstrong.AssemblyInfo.cs
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\obj\Debug\net6.0\projetoarmstrong.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\bin\Debug\net6.0\projetoarmstrong.exe
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\bin\Debug\net6.0\projetoarmstrong.deps.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\bin\Debug\net6.0\projetoarmstrong.runtimeconfig.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\bin\Debug\net6.0\projetoarmstrong.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\bin\Debug\net6.0\projetoarmstrong.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\obj\Debug\net6.0\projetoarmstrong.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\obj\Debug\net6.0\refint\projetoarmstrong.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\obj\Debug\net6.0\projetoarmstrong.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\obj\Debug\net6.0\projetoarmstrong.genruntimeconfig.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetoarmstrong\obj\Debug\net6.0\ref\projetoarmstrong.dll

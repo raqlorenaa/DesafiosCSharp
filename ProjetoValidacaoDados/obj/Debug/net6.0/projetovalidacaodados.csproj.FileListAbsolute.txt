@@ -1,0 +1,15 @@
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\bin\Debug\net6.0\projetovalidacaodados.exe
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\bin\Debug\net6.0\projetovalidacaodados.deps.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\bin\Debug\net6.0\projetovalidacaodados.runtimeconfig.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\bin\Debug\net6.0\projetovalidacaodados.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\bin\Debug\net6.0\projetovalidacaodados.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\obj\Debug\net6.0\projetovalidacaodados.csproj.AssemblyReference.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\obj\Debug\net6.0\projetovalidacaodados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\obj\Debug\net6.0\projetovalidacaodados.AssemblyInfoInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\obj\Debug\net6.0\projetovalidacaodados.AssemblyInfo.cs
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\obj\Debug\net6.0\projetovalidacaodados.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\obj\Debug\net6.0\projetovalidacaodados.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\obj\Debug\net6.0\refint\projetovalidacaodados.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\obj\Debug\net6.0\projetovalidacaodados.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\obj\Debug\net6.0\projetovalidacaodados.genruntimeconfig.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetovalidacaodados\obj\Debug\net6.0\ref\projetovalidacaodados.dll

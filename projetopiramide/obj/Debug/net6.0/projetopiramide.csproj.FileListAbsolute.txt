@@ -1,0 +1,15 @@
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\bin\Debug\net6.0\projetopiramide.exe
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\bin\Debug\net6.0\projetopiramide.deps.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\bin\Debug\net6.0\projetopiramide.runtimeconfig.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\bin\Debug\net6.0\projetopiramide.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\bin\Debug\net6.0\projetopiramide.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\obj\Debug\net6.0\projetopiramide.csproj.AssemblyReference.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\obj\Debug\net6.0\projetopiramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\obj\Debug\net6.0\projetopiramide.AssemblyInfoInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\obj\Debug\net6.0\projetopiramide.AssemblyInfo.cs
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\obj\Debug\net6.0\projetopiramide.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\obj\Debug\net6.0\projetopiramide.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\obj\Debug\net6.0\refint\projetopiramide.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\obj\Debug\net6.0\projetopiramide.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\obj\Debug\net6.0\projetopiramide.genruntimeconfig.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetopiramide\obj\Debug\net6.0\ref\projetopiramide.dll

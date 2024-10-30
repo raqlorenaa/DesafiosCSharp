@@ -1,0 +1,15 @@
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\bin\Debug\net6.0\projetomotor.exe
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\bin\Debug\net6.0\projetomotor.deps.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\bin\Debug\net6.0\projetomotor.runtimeconfig.json
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\bin\Debug\net6.0\projetomotor.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\bin\Debug\net6.0\projetomotor.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\obj\Debug\net6.0\projetomotor.csproj.AssemblyReference.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\obj\Debug\net6.0\projetomotor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\obj\Debug\net6.0\projetomotor.AssemblyInfoInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\obj\Debug\net6.0\projetomotor.AssemblyInfo.cs
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\obj\Debug\net6.0\projetomotor.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\obj\Debug\net6.0\projetomotor.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\obj\Debug\net6.0\refint\projetomotor.dll
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\obj\Debug\net6.0\projetomotor.pdb
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\obj\Debug\net6.0\projetomotor.genruntimeconfig.cache
+C:\Users\Raquel\Documents\GitHub\DesafiosCSharp\projetomotor\obj\Debug\net6.0\ref\projetomotor.dll
